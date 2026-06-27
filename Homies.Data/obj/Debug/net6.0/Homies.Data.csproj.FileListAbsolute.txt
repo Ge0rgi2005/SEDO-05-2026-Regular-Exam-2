@@ -1,0 +1,15 @@
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.deps.json
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.runtimeconfig.json
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.dll
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\bin\Debug\net6.0\Homies.Data.pdb
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.AssemblyReference.cache
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfoInputs.cache
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfo.cs
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.sourcelink.json
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.dll
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\refint\Homies.Data.dll
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.pdb
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\Homies.Data.genruntimeconfig.cache
+C:\Users\Georgi Malchov\OneDrive - St George School\Desktop\SEDO-05-2026-Regular-Exam-2\Homies.Data\obj\Debug\net6.0\ref\Homies.Data.dll
